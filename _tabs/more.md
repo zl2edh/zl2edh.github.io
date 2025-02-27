@@ -1,11 +1,9 @@
 ---
-order: 7
+order: 8
 icon: fa-solid fa-plus
 ---
 
-<details>
-This site was built in Jekyll
-</details>
+
 
 >Dont [click](https://c.tenor.com/_4YgA77ExHEAAAAd/rick-roll.gif) me!
 

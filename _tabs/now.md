@@ -1,6 +1,6 @@
 ---
 icon: fa-solid fa-arrows-rotate
-order: 5
+order: 6
 ---
 
 Right now I am getting this website sorted, working on many different things and doing many things with air cadets too.
@@ -19,13 +19,15 @@ I almost-exclusivly watch youtube videos. I haven't sat down to watch a proper f
 #### Instagram reels
 My algorithim is questionable. One minute, some cool nerdy video about trains or electrical stuff, then next minute it's a video related to Instagram's favourite word. (you know what I mean)
 
-## OS's that I'm using
+## OS's and computers that I'm using
 #### Fedora Linux
 Trusty linux distro I've been using since 2021. Never missed a beat. Rock-solid in my experience.
 I use it on my laptop (dualbooted with windows 11) and have used it on my desktop PC.
 
 #### Windows
-Adobe, MS Office don't work on linux. I have to use both for school. I don't really mind using Windows because I like seeing how old parts of the OS can get and all the different things it has built in you don't normally see. I have installed ExplorerPatcher on my laptop so I get Windows 10 small style taskbar on my Windows 11 install. I do like Windows 11's design style but on my laptop the taskbar is too big for my screen size imo.
+Adobe, MS Office don't work on linux. I have to use both for school. I don't really mind using Windows because I like seeing how old parts of the OS can get and all the different things it has built in you don't normally see. I have installed ExplorerPatcher on my laptop so I get Windows 10 small style taskbar on my Windows 11 install. I do like Windows 11's design style but on my laptop the taskbar is too big for my screen size imo. My laptop is an ASUS VivoBook M1503Q. I thought I got the 144hz version but i got the 60hz ☹️ - This laptop is what I'm using to make this website.
 
+![the only photo i could find of my laptop](/assets/images/laptop.png)
+_The only photo I could find of my laptop. Here I'm programming an ESP32 for WLED (didn't work out in the end)_
 #### Android
-One UI 6 on my Samsung Galaxy A53. I want to upgrade but $$$$
+One UI 6 on my Samsung Galaxy A53. I want to upgrade but new phones are expensive. 😭
