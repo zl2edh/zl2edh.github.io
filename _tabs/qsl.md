@@ -23,6 +23,6 @@ This one is a beast. It has an DSP and it has some decently good noise reduction
 ![my radio](https://cdn-bio.qrz.com/h/zl2edh/FT1000MP_1.jpg)
 
 <center>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarmuf.php"></a><br>
-<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solar101vhfpic.php"></a>
+<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarmuf.php" alt="MUF"></a><br>
+<a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solar101vhfpic.php" alt="solar predection"></a>
 </center>
