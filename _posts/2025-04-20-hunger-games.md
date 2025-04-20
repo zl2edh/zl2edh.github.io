@@ -35,7 +35,7 @@ I even read some fanfiction! It took me a few weeks, but I managed to finish a 3
 I’ve been watching a lot of videos about THG. They give really good insight into theories and lore. One of my theories is that if the Capitol was in present-day Salt Lake City, UT, Panem could’ve started out Mormon after the big wipeout of the current USA.
 Although Panem isn’t religious as far as I can tell, some people may have tried to keep the Mormon church going, but they were stifled by others. I’m sure The Ballad of Songbirds and Snakes would give me more detail, but I’ve yet to read that book. My library only has the e-book, and I’d much rather read a real copy.
 
-Videos from [Hunger Games Explained]() and [Rachel A Ramras](https://www.youtube.com/@RachelARamras) are great watches and I recommend checking them out!
+Videos from [Hunger Games Explained](https://www.youtube.com/@hungergamesexplained) and [Rachel A Ramras](https://www.youtube.com/@RachelARamras) are great watches and I recommend checking them out!
 
 ![Snow laughing](/assets/images/thg-peetagale.jpg)
 
