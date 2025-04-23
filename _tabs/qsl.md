@@ -4,7 +4,6 @@ icon: fa-solid fa-walkie-talkie
 ---
 
 Welcome to my QSL page!
-Why does Jekyll make the header 'Qsl', it looks kinda bad...
 
 ## My Radios
 I have 3 radios that all serve a different purpose.
@@ -22,7 +21,10 @@ This is a weird one. I think it used to be a commercially used base station radi
 This one is a beast. It has an DSP and it has some decently good noise reduction! The receiever goes all the way from 30.0MHz to 0.1MHz which is really handy for listening to AM MW broadcasts or shortwave. It picks up alot of Radio China Intl from my 2 meter vertical! I haven't really tested the TX side of it becuase I haven't had a suitable antenna to TX. When conditions are right, I can hear guys from Spain! The receiver in this thing is crazy good. I have yet to connect it to my computer for CAT control and I probably should programm in some memory slots. The best thing about is that I bought it for *only $250!* I bought it off my radio club which was upgrading to an Icom IC-7300.
 ![my radio](https://cdn-bio.qrz.com/h/zl2edh/FT1000MP_1.jpg)
 
+## My Antennas
+
 <center>
 <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solarmuf.php" alt="MUF"></a><br>
 <a href="https://www.hamqsl.com/solar.html" title="Click to add Solar-Terrestrial Data to your website!"><img src="https://www.hamqsl.com/solar101vhfpic.php" alt="solar predection"></a>
 </center>
+Jekyll makes the header 'Qsl', it looks real bad, if someone knows how to fix it please email me!
