@@ -16,7 +16,7 @@ timezone: Pacific/Auckland
 
 title: ZL2EDH # the main title
 
-tagline: My personal website # it will display as the subtitle
+tagline: The ramblings of a guy from NZ. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   My personal website, focused on ham radio and technology, but will probably have broader topics.
